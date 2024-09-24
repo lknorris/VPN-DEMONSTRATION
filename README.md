@@ -39,7 +39,8 @@ Include instructions on how to install and set up the project.
   
   
 3. **Screenshot 3**  
-   ![Screenshot 3](link-to-your-image-3)  
+   ![Screenshot 3]![Picture 4 (observing different IP address and info on the VM and my machine )](https://github.com/user-attachments/assets/78944af8-8530-46cb-b03a-7d2a9b22cfc5)
+
   
 4. **Screenshot 4**  
    ![Screenshot 4](link-to-your-image-4)  
