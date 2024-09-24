@@ -6,11 +6,11 @@
 
 
 ## **Project Description**
-This is a demonstration of VPN software and virtual machine use to observe what a VPN does in a real-world setting. 
+This is a demonstration of VPN software and virtual machine use to observe what a VPN does in a real-world setting. I will be walking through what a VPN is, how to install it, and why you would need one. I will also use a virtual network for this demonstration.
 
 ## **Project Summary**
-- ### **🔹 Feature 1:** 
-  Describe the first feature of your project here.
+- ### **🔹 What is a VPN?** 
+  A VPN (Virtual Private Network) is a service that helps you protect your online privacy and secure your internet connection. It works by creating an encrypted tunnel between your device (like your computer, smartphone, or tablet) and the internet.
   
 - ### **🔹 Feature 2:** 
   Describe the second feature of your project here.
