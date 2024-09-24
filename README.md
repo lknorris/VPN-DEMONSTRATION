@@ -1,4 +1,4 @@
-# IT Project Title
+# Proton VPN Demonstration
 
 ![image](https://github.com/user-attachments/assets/ce687fd7-904f-41a1-b8cc-32f754574559)
 
