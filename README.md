@@ -6,7 +6,7 @@
 
 
 ## **Project Description**
-This is a demonstration of VPN software and virtual machine use to observe how a VPN works in a real-world setting. 
+This is a demonstration of VPN software and virtual machine use to observe what a VPN does in a real-world setting. 
 
 ## **Features**
 - ### **🔹 Feature 1:** 
