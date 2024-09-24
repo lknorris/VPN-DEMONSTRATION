@@ -12,11 +12,10 @@ This is a demonstration of VPN software and virtual machine use to observe what 
 - ### **🔹 What is a VPN?** 
   A VPN (Virtual Private Network) is a service that helps you protect your online privacy and secure your internet connection. It works by creating an encrypted tunnel between your device (like your computer, smartphone, or tablet) and the internet.
   
-- ### **🔹 Feature 2:** 
-  Describe the second feature of your project here.
-
-- ### **🔹 Feature 3:** 
-  Describe the third feature of your project here.
+- ### **🔹 Why use a VPN?** 
+ A VPN hides where you're browsing from and scrambles your online activity, keeping it private and safe, especially on public Wi-Fi. It helps you watch shows or access websites from other countries that might be blocked. It also stops internet providers from slowing down your connection and lets you safely connect to work from anywhere.
+- ### **🔹 Environments used in this demonstration** 
+  Microsoft Azure, Virtual machines, Windows 10.
 
 ## **Setup & Installation**
 Include instructions on how to install and set up the project.
