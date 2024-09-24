@@ -51,7 +51,8 @@ Include instructions on how to install and set up the project.
 
   
 6. **Screenshot 6**  
-   ![Screenshot 6](link-to-your-image-6)  
+   ![Screenshot 6]![Picture 6  Observing changes in VM IP address with VPN](https://github.com/user-attachments/assets/78a2c4f0-7c2a-46d4-b613-7a4dfaf71a77)
+
 
 ## **Video Demonstration**
 [![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
