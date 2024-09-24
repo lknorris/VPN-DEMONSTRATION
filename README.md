@@ -17,14 +17,16 @@ This is a demonstration of VPN software and virtual machine use to observe what 
 - ### **🔹 Environments used in this demonstration** 
   Microsoft Azure, Windows 10.
 
+  ## **Technologies Used**
+
+- **Proton VPN**
+- **Azure Virtual Machine**
+- **Azure Resource Group**
+
 ## **Setup & Installation**
 Include instructions on how to install and set up the project.
 
-## **Technologies Used**
-List the technologies and tools used in your project:
-- **Technology 1**
-- **Technology 2**
-- **Technology 3**
+
 
 ## **Screenshots**
 
