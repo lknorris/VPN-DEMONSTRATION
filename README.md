@@ -31,7 +31,8 @@ Include instructions on how to install and set up the project.
 ## **Screenshots**
 
 1. **Screenshot 1**  
-   ![Screenshot 1](link-to-your-image-1)  
+   ![Screenshot 1]![Combination of pictures 1 and 2](https://github.com/user-attachments/assets/1528e518-456c-40e9-b05c-a0665f218503)
+
   
 2. **Screenshot 2**  
    ![Screenshot 2](link-to-your-image-2)  
