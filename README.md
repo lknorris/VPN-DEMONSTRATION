@@ -15,7 +15,7 @@ This is a demonstration of VPN software and virtual machine use to observe what 
 - ### **🔹 Why use a VPN?** 
  A VPN hides where you're browsing from and scrambles your online activity, keeping it private and safe, especially on public Wi-Fi. It helps you watch shows or access websites from other countries that might be blocked. It also stops internet providers from slowing down your connection and lets you safely connect to work from anywhere.
 - ### **🔹 Environments used in this demonstration** 
-  Microsoft Azure, Virtual machines, Windows 10.
+  Microsoft Azure, Windows 10.
 
 ## **Setup & Installation**
 Include instructions on how to install and set up the project.
