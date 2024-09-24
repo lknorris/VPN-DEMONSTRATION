@@ -6,7 +6,7 @@
 
 
 ## **Project Description**
-Briefly describe your IT project here. Explain what the project does, its purpose, and any key features.
+This is a demonstration of VPN software and virtual machine use to observe how a VPN works in a real-world setting. 
 
 ## **Features**
 - ### **🔹 Feature 1:** 
