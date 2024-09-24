@@ -35,7 +35,8 @@ Include instructions on how to install and set up the project.
 
   
 2. **Screenshot 2**  
-   ![Screenshot 2](link-to-your-image-2)  
+   ![Screenshot 2]![picture 3 (seeing my ip address)](https://github.com/user-attachments/assets/7524485d-9f77-42ca-98bb-6be12b13bbca)
+  
   
 3. **Screenshot 3**  
    ![Screenshot 3](link-to-your-image-3)  
