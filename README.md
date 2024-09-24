@@ -47,7 +47,8 @@ Include instructions on how to install and set up the project.
  
   
 5. **Screenshot 5**  
-   ![Screenshot 5](link-to-your-image-5)  
+   ![Screenshot 5]![picture 5  (downloaded software and got my new IP )](https://github.com/user-attachments/assets/c02fa26a-8de2-4a25-aad0-5fee7b9e3fde)
+
   
 6. **Screenshot 6**  
    ![Screenshot 6](link-to-your-image-6)  
