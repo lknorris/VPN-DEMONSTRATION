@@ -23,7 +23,7 @@ This is a demonstration of VPN software and virtual machine use to observe what 
 - **Azure Virtual Machine**
 - **Azure Resource Group**
 
-## **Setup & Installation**
+## **Setup & Installation Demonstration**
 Include instructions on how to install and set up the project.
 
 
