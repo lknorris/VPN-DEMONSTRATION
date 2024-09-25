@@ -71,7 +71,7 @@ All done! You have successfully used a VPN and changed your IP and region. Keep 
 
 # Closing
 
-VPNs have many uses, any Proton VPN is just one of many you can use! You can work remotely with them, access websites, keep up with news in another country, or watch TV shows that you don't normally get where you live! I hoped my demonstration helped understand and showcase VPNs!
+VPNs have many uses, and Proton VPN is just one of many you can use! You can work remotely with them, access websites, keep up with news in another country, or watch TV shows that you don't normally get where you live! I hoped my demonstration helped understand and showcase VPNs!
 
 
 ## **Course Careers Certificate**
