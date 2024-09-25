@@ -20,8 +20,8 @@ This is a demonstration of VPN software and virtual machine use to observe what 
   ## **Technologies Used**
 
 - **Proton VPN**
-- **Azure Virtual Machine**
-- **Azure Resource Group**
+- **Azure Virtual Machine (This is a virtual computer inside my computer! This is not needed. You can use a VPN without one, but I will use one today for the sake of the demonstration.)**
+- **Azure Resource Group (A place to store my virtual machine while I perform the demonstration.)**
 
 ## **Setup & Installation Demonstration**
 Log into Microsoft Azure and create a resource group and a virtual machine.
