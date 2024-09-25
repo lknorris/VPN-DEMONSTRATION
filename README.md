@@ -40,7 +40,7 @@ Keep in mind, that if you are using the free version, only the USA VPN option is
 
 Go back to whatismyIPaddress.com and then observe your virtual machine's new IP address.
 
-All done! You have successfully used a VPN and changed your IP and region
+All done! You have successfully used a VPN and changed your IP and region. Keep in mind, you don't have to use virtual machines to do this. You can just use your home computer and change it's IP address, but for the sake of demonstration, I used one.
 
 
 
