@@ -74,5 +74,6 @@ All done! You have successfully used a VPN and changed your IP and region. Keep 
 [![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
 *(Click on the image to view the video)*
 
-## **License**
-State the license type for your project.
+## **Course Careers Certificate**
+![course_completion (1)](https://github.com/user-attachments/assets/d28bcd74-6884-46c2-9800-dbf4d9178d3b)
+
