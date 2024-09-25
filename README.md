@@ -24,7 +24,23 @@ This is a demonstration of VPN software and virtual machine use to observe what 
 - **Azure Resource Group**
 
 ## **Setup & Installation Demonstration**
-Include instructions on how to install and set up the project.
+Log into Microsoft Azure and create a resource group and a virtual machine.
+
+Browse to [www.whatismyipaddress.com](https://whatismyipaddress.com/) on your personal computer, and observe your IP address.
+
+Next, on your personal computer, set up an account with Proton VPN using the free account. (Write all this down!)
+
+Once your account is created, go to your virtual machine. 
+
+Inside your VM, browse to whatismyipaddres.com again and take a look at your virtual machine's IP address, and write it down.
+
+Next, install Proton VPN on your virtual machine, and start running the free version. Pick the free VPN option on the program. It will then change your VM's IP address to a different country.
+
+Keep in mind, that if you are using the free version, only the USA VPN option is available. If you are already in the US like me, your country won't change, but your IP address will.
+
+Go back to whatismyIPaddress.com and then observe your virtual machine's new IP address.
+
+All done! You have successfully used a VPN and changed your IP and region
 
 
 
