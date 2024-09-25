@@ -69,10 +69,10 @@ All done! You have successfully used a VPN and changed your IP and region. Keep 
 6. After browsing back to whatismyipaddress.com, I took note of my new IP address and wrote it down. I then compare the new IP address with my old one to confirm the change. 
    ![Screenshot 6]![Picture 6  Observing changes in VM IP address with VPN](https://github.com/user-attachments/assets/78a2c4f0-7c2a-46d4-b613-7a4dfaf71a77)
 
+# Closing
 
-## **Video Demonstration**
-[![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-*(Click on the image to view the video)*
+VPNs have many uses, any Proton VPN is just one of many you can use! You can work remotely with them, access websites, keep up with news in another country, or watch TV shows that you don't normally get where you live! I hoped my demonstration helped understand and showcase VPNs!
+
 
 ## **Course Careers Certificate**
 ![course_completion (1)](https://github.com/user-attachments/assets/d28bcd74-6884-46c2-9800-dbf4d9178d3b)
