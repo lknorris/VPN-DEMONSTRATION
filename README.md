@@ -6,7 +6,7 @@
 
 
 ## **Project Description**
-This is a demonstration of VPN software and virtual machine use to observe what a VPN does in a real-world setting. I will be walking through what a VPN is, how to install it, and why you would need one. I will also use a virtual network for this demonstration.
+This is a demonstration of VPN software and virtual machine use to observe what a VPN does in a real-world setting. I will walk through what a VPN is, how to install it, and why you need one. I will also use a virtual machine on Azure for this demonstration.
 
 ## **Project Summary**
 - ### **🔹 What is a VPN?** 
