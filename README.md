@@ -46,7 +46,7 @@ All done! You have successfully used a VPN and changed your IP and region. Keep 
 
 ## **Screenshots**
 
-1. **Screenshot 1**  
+1. Installing my resource group and virtual machine, then remote connecting into the VM.  
    ![Screenshot 1]![Combination of pictures 1 and 2](https://github.com/user-attachments/assets/1528e518-456c-40e9-b05c-a0665f218503)
 
   
